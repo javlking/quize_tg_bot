@@ -7,7 +7,7 @@ import states
 import buttons
 import database
 
-bot = Bot('TOKEN')
+bot = Bot('6157892774:AAEtE5lz9E9fTPEZ3XNOuRWcaqhW8rYoWlw')
 dp = Dispatcher(bot, storage=MemoryStorage())
 
 main_url = 'http://127.0.0.1:5000'
